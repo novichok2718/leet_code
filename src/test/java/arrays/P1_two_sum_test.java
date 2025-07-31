@@ -1,6 +1,5 @@
 package arrays;
 import com.rustam.leetcode.arrays.P1_two_sum;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
